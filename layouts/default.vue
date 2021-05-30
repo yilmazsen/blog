@@ -1,6 +1,6 @@
 <template>
   <div class="wrapper">
-    <nuxt-link class="logo" to="/">Nuxt blog starter</nuxt-link>
+    <nuxt-link class="logo" to="/">"/dev/yilmazsen" => history | grep {' DevOps - System Engineering - Software Development - Travelling '}</nuxt-link>
     <nuxt />
   </div>
 </template>
