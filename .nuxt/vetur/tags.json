@@ -1,0 +1,14 @@
+{
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "PostCard": {
+    "description": "Auto imported from components/PostCard.vue"
+  },
+  "VImg": {
+    "description": "Auto imported from components/VImg.vue"
+  },
+  "VTags": {
+    "description": "Auto imported from components/VTags.vue"
+  }
+}

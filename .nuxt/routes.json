@@ -1,0 +1,23 @@
+[
+  {
+    "name": "posts-slug",
+    "path": "/posts/:slug?",
+    "component": "/Users/yilmazsen/Documents/Github Projects/blog/pages/posts/_slug.vue",
+    "chunkName": "pages/posts/_slug",
+    "_name": "_67d3fd9a"
+  },
+  {
+    "name": "tags-slug",
+    "path": "/tags/:slug?",
+    "component": "/Users/yilmazsen/Documents/Github Projects/blog/pages/tags/_slug.vue",
+    "chunkName": "pages/tags/_slug",
+    "_name": "_0004ff10"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/yilmazsen/Documents/Github Projects/blog/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7a43a11e"
+  }
+]
