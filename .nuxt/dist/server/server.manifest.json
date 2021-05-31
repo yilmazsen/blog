@@ -1,0 +1,17 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/logo.js": "components/logo.js",
+    "pages/index.js": "pages/index.js",
+    "pages/posts/_slug.js": "pages/posts/_slug.js",
+    "pages/tags/_slug.js": "pages/tags/_slug.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/logo.js": "components/logo.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/posts/_slug.js": "pages/posts/_slug.js.map",
+    "pages/tags/_slug.js": "pages/tags/_slug.js.map",
+    "server.js": "server.js.map"
+  }
+}
